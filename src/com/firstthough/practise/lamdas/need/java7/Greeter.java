@@ -6,7 +6,7 @@ package com.firstthough.practise.lamdas.need.java7;
 public class Greeter {
 
     public void greet(Greeting greeting){
-        greeting.greet();
+        greeting.perform();
     }
 
     public static void main(String[] args) {
