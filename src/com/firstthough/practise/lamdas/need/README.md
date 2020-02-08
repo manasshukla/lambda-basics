@@ -42,3 +42,6 @@ In the [java8](java8) package, we would write the whole logic of [java7](java7) 
  This example drive home the point that the return type of a Lambda function is an interface.
  This interface should have exactly one abstract method that matches the lambda signature. These interfaces are called Functional interfaces.
  Turns out we already have such an interface, the Greeting interface
+ 
+ 
+In summary,lambda expressions allow us to treat code as data and pass code as arguments to other functions.
